@@ -1,2 +1,2 @@
 ﻿Il était une fois 4 élèves en formation qui voulaient y arriver mais pas trop vite ils se mirent en quete 
-de comprendre linux apres moultes essais ils deciderent de sauter par la fenêtre pour découvrir le monde Linux IRL. Ils rencontrèrent alors des chmod qui leur...
+de comprendre linux apres moultes essais ils deciderent de sauter par la fenêtre pour découvrir le monde Linux IRL. Ils rencontrèrent alors des chmod qui leur demandent "Mais pour vous, c'est quoi un bon chasseur ?".
